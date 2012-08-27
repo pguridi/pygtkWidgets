@@ -1,4 +1,4 @@
-This is a collection of specialized GTK widgets written in Python.
+pygtk2widgets is a collection of specialized GTK widgets written in Python, for PyGTK 2.24.
 Inspired in part by the GTK# "Holly Widgets" library [1]
 
 
