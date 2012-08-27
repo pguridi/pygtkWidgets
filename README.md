@@ -4,8 +4,8 @@ Inspired in part by the GTK# "Holly Widgets" library [1]
 
 A short description of implemented widgets:
 
- - regexEntry:  A gtk.Entry, with regular expresion validation support (ie: IPV4, email, etc).
- - listView:    A simple gtk.Treeview, for displaying lists.
+ - RegexEntry:  A gtk.Entry, with regular expresion validation support (ie: IPV4, email, etc).
+ - ListView:    A simple gtk.Treeview, for displaying lists.
 
 
 
