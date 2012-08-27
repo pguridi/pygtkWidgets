@@ -4,17 +4,16 @@ Created on 15/08/2009
 @author: pguridi
 '''
 import sys
-import os
 
-sys.path.append(os.path.join("..", "pygtk2widgets"))
+sys.path.append("..")
 
-import RegexEntry
+from pygtk2widgets import RegexEntry
 import gtk
 
 
 win = gtk.Window()
 
-hreg = RegexEntry.RegexEntry("email")
+hreg = RegexEntry("email")
 
 win.add(hreg)
 
